@@ -10,11 +10,9 @@
 }
 .facebook-top-Main{
     padding-top:34px;
-    margin-left: 157px;
+    justify-content: center;
     display: flex;
     align-items: center;
-    
-  
 }
 .facebook-top-left{
     display: inline-block;
