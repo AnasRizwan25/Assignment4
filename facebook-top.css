@@ -147,8 +147,12 @@
     .facebook-top-Main{
         margin-top: -140px;
         padding-top:0px;
-        margin-left: 3.6px;
+        margin-left: 10px;
+
         display: flex;
+      justify-content: center;
+      align-items: center;
+        
     }
     .facebook-top-left{
         display: inline-block;
