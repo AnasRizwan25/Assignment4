@@ -133,7 +133,8 @@ span{
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     margin: 0;
-    padding-left: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
     line-height: 32px;
     font-size: 26px;
     text-align: center;
@@ -156,6 +157,6 @@ width: 515px;
    justify-content: center;
    height: 100%;
    width: 100%;
-   padding-top: 20px;
+   padding-top: 25px;
      } 
 }
